@@ -3,6 +3,7 @@ package com.example.segundoparcial
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -14,9 +15,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,Animal1Terrestre::class.java)
             startActivity(intent);
         }
-        card_terrestre.setOnClickListener{
-            val intent = Intent(this,Animal2terrestre::class.java)
+
+        card_acuaticos.setOnClickListener{
+            val intent = Intent(this,Animal1acuatico::class.java)
             startActivity(intent);
         }
     }
+
 }

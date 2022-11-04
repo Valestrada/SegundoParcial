@@ -5,14 +5,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 
-class Animal1Terrestre : AppCompatActivity() {
+class Animal1acuatico : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_animal1_terrestre)
+        setContentView(R.layout.activity_animal1acuatico)
     }
-
-    fun btn_siguiente(Vista: View){
-        var ventana:Intent = Intent(applicationContext,Animal2terrestre::class.java)
+    fun btn_siguiente2(Vista: View){
+        var ventana: Intent = Intent(applicationContext,Animal2acuatico::class.java)
         startActivity(ventana)
     }
 }

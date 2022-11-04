@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_animal1_terrestre.xml" value="0.1796875" />
-        <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_animal2terrestre.xml" value="0.165625" />
+        <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_animal1acuatico.xml" value="0.1796875" />
+        <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_animal2acuatico.xml" value="0.165625" />
+        <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_animal2terrestre.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alejandra/Desktop/Programacion IV/SegundoParcial/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
